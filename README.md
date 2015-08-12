@@ -1,6 +1,8 @@
 frontend-nanodegree-arcade-game
 ===============================
 
+Open file index.html
+
 The object of the game is to get the player to the water at the top of the screen.
 
 Keyboard keys to use:
