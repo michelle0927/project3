@@ -79,7 +79,7 @@ Player.prototype.handleInput = function(key) {
 
 // Reset player to starting position
 Player.prototype.reset = function() {
-    this.x = 200;
+    this.x = 202;
     this.y = 380;
     this.row = 5;
     this.collision = false;
