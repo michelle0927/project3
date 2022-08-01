@@ -15,4 +15,4 @@ Avoid the bugs! If the player touches one of the bugs moving across the screen, 
 
 Get to the water! When the player reaches the water, the score is increased by one, and the player is reset to the starting location to continue playing.
 
-Have fun!!
+Have fun!!!
