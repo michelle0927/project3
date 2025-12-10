@@ -23,4 +23,10 @@ Classic Frogger-style arcade game implemented in vanilla JavaScript.
 - Avoid the bugs! Colliding with a bug sends the player back to the start.
 - Get to the water to earn a point and reset for another round.
 
+## Troubleshooting
+
+- **Sprites look broken or missing**: Make sure the `images/` directory is served correctly. If running via `file://`, switch to a local HTTP server (`python3 -m http.server 8000`).
+- **Keyboard controls don’t respond**: Click anywhere inside the game canvas to focus it, then use the arrow keys. Some browser extensions can also block key events—try disabling them or using an incognito window.
+- **Game logic errors after edits**: Check the browser console for JavaScript errors and ensure your edits didn’t remove required variables in `js/app.js`, `js/engine.js`, or `js/resources.js`.
+
 Have fun!!
