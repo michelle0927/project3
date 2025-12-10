@@ -1,7 +1,18 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Open file index.html
+## Installation
+1. Clone this repository and move into it:
+   ```
+   git clone <repo-url>
+   cd frontend-nanodegree-arcade-game
+   ```
+2. Start a simple static server (recommended) or open `index.html` directly.
+   - Python example: `python -m http.server 8080`
+   - Then visit `http://localhost:8080`
+
+## Gameplay
+Open `index.html` in your browser.
 
 The object of the game is to get the player to the water at the top of the screen.
 
