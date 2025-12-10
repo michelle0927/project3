@@ -1,18 +1,26 @@
-frontend-nanodegree-arcade-game
-===============================
+# Frontend Nanodegree Arcade Game
 
-Open file index.html
+Classic Frogger-style arcade game implemented in vanilla JavaScript.
 
-The object of the game is to get the player to the water at the top of the screen.
+## Installation
 
-Keyboard keys to use:
-up arrow - moves the player up one space
-down arrow - moves the player down one space
-left arrow - moves the player to the left one space
-right arrow - moves the player to the right one space
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/udacity/frontend-nanodegree-arcade-game.git
+   cd frontend-nanodegree-arcade-game
+   ```
+2. Install dependencies (none required for the base project).
+3. Open `index.html` directly in your browser, or serve the project with a lightweight web server (for example `python3 -m http.server 8000`) to avoid browser security restrictions.
 
-Avoid the bugs! If the player touches one of the bugs moving across the screen, the player will be reset to the starting location.
+## How to Play
 
-Get to the water! When the player reaches the water, the score is increased by one, and the player is reset to the starting location to continue playing.
+- The object of the game is to get the player to the water at the top of the screen.
+- Keyboard controls:
+  - Up arrow: move up one space
+  - Down arrow: move down one space
+  - Left arrow: move left one space
+  - Right arrow: move right one space
+- Avoid the bugs! Colliding with a bug sends the player back to the start.
+- Get to the water to earn a point and reset for another round.
 
 Have fun!!
