@@ -29,4 +29,11 @@ Classic Frogger-style arcade game implemented in vanilla JavaScript.
 - **Keyboard controls don’t respond**: Click anywhere inside the game canvas to focus it, then use the arrow keys. Some browser extensions can also block key events—try disabling them or using an incognito window.
 - **Game logic errors after edits**: Check the browser console for JavaScript errors and ensure your edits didn’t remove required variables in `js/app.js`, `js/engine.js`, or `js/resources.js`.
 
+## Arcade Ode
+
+Bugs march in rows, a ticking tide,  
+Stones guard the lane where gems may hide.  
+Leap toward the gleam, dodge pixel strife,  
+Ride waves of luck to extra life.
+
 Have fun!!
