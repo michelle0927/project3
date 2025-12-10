@@ -36,4 +36,8 @@ Stones guard the lane where gems may hide.
 Leap toward the gleam, dodge pixel strife,  
 Ride waves of luck to extra life.
 
+## Image Description
+
+The provided graphic shows a bright green square with rounded corners and a bold lowercase white letter `p` centered inside it, resembling a minimalist app icon or badge.
+
 Have fun!!
